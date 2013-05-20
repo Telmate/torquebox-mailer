@@ -5,7 +5,7 @@ require 'torquebox/mailer/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "torquebox-mailer"
-  gem.version       = Torquebox::Mailer::VERSION
+  gem.version       = '0.0.1'
   gem.authors       = ["Morton Jonuschat"]
   gem.email         = ["m.jonuschat@mojocode.de"]
   gem.description   = %q{Easily send email in the background using TorqueBox Backgroundable and ActionMailer}
