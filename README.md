@@ -1,6 +1,5 @@
 # Torquebox::Mailer
 
-Tesing
 Easily send emails in the background using TorqueBox Backgroundable and ActionMailer
 
 ## Installation
