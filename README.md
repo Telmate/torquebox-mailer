@@ -1,5 +1,6 @@
 # Torquebox::Mailer
 
+Tesing
 Easily send emails in the background using TorqueBox Backgroundable and ActionMailer
 
 ## Installation
@@ -46,5 +47,5 @@ Please see LICENSE for licensing details.
 
 ## Copyright
 
-Copyright 2013 Morton Jonuschat  
-Parts Copyright 2012-2013 Mike Perham  
+Copyright 2013 Morton Jonuschat
+Parts Copyright 2012-2013 Mike Perham
